@@ -29,15 +29,15 @@ Aplikasi ini menggunakan **SQLite** sebagai basis data lokal untuk menyimpan inf
 3. Anda berhasil masuk 
 
 ## Screenshot Tampilan
-https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/berhasil_login.jpeg
+
 **Login Screen**  
-![Login](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/login_page.jpeg)
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/login_page.jpeg" width="100">
 
 **Register Screen**  
-![Register](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/regist_page.jpeg)
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/regist_page.jpeg" width="100">
 
-**Beranda Setelah Login**  
-![Home](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/main_page.jpeg)
+**Beranda**  
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/main_page.jpeg" width="100">
 
 
 ## Hasil Uji Coba
@@ -46,33 +46,32 @@ https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/berhasil_login.
 
 **Invalid Email**  
 
-![InvalidEmail](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/email_tidakvalid.jpeg)
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/email_tidakvalid.jpeg" width="100">
 
 **Empty Form**  
 
-![FormTidakLengkap](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/form_kosong.jpeg)
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/form_kosong.jpeg" width="100">
 
 **Minimum Password**  
 
-![InvalidPassword](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/password_kurang.jpeg)
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/password_kurang.jpeg" width="100">
 
 **Unmatch Password**  
 
-![InvalidPassword](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/password_tidaksama.jpeg)
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/password_tidaksama.jpeg" width="100">
 
 **Regist Success**  
 
-![RegistSuccess](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/regist_success.jpeg)
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/regist_success.jpeg" width="100">
 
 ## Login Screen
 
 **Invalid Username or Passwrod**  
 
-![ErrorLogin](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/error_login.jpeg)
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/error_login.jpeg" width="100">
 
 **Login Success**  
 
-![SuccessLogin](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/berhasil_login.jpeg)
-
+<img src="https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/berhasil_login.jpeg" width="100">
 
 ---
