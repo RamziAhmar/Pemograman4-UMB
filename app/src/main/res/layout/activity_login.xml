@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Login"
+    tools:context=".LoginActivity"
     android:gravity="center">
 
     <androidx.cardview.widget.CardView
@@ -40,7 +40,8 @@
                 android:layout_marginTop="20dp"
                 android:layout_marginBottom="20dp"
                 android:background="@color/background"
-                android:hint="Username"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
                 android:textColor="@color/white"
                 android:textColorHint="@color/white"
                 android:padding="18dp"
@@ -56,6 +57,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_marginBottom="20dp"
                 android:background="@color/background"
+                android:inputType="textPassword"
                 android:hint="Password"
                 android:textColor="@color/white"
                 android:textColorHint="@color/white"

@@ -1,6 +1,7 @@
 package com.example.utspemograman4;
 
 import android.os.Bundle;
+import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,5 +21,9 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+
+        String email = getIntent().getStringExtra("USER_EMAIL");
+        TextView tv = findViewById(R.id.tvWelcome);
+        tv.setText("Halo, " + email);
     }
 }
