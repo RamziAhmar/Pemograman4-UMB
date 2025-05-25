@@ -2,7 +2,7 @@
 
 Aplikasi Android sederhana yang memiliki fitur **Login dan Register** menggunakan database **SQLite** sebagai media penyimpanan data pengguna. Aplikasi ini dibuat untuk memenuhi tugas UTS mata kuliah Pemrograman 4.
 
-## Identitas Mahasiswa
+## Profil
 
 - **Nama:** Ahmar Ramzi Sanjaya  
 - **NIM:** 220220015  
@@ -17,7 +17,7 @@ Aplikasi ini menggunakan **SQLite** sebagai basis data lokal untuk menyimpan inf
 1. Buka aplikasi
 2. Apakah sudah punya akun?
    1. Jika tidak 
-      1. klik "Daftar Sekarang!"
+      1. Klik "Daftar Sekarang!"
       2. Masukkan email
       3. Masukkan password
       4. Masukkan ulangi password
@@ -28,18 +28,16 @@ Aplikasi ini menggunakan **SQLite** sebagai basis data lokal untuk menyimpan inf
       3. Klik "Login"
 3. Anda berhasil masuk 
 
-Aplikasi ini menggunakan **SQLite** sebagai basis data lokal untuk menyimpan informasi akun yang didaftarkan oleh pengguna.
-
 ## Screenshot Tampilan
-
+https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/berhasil_login.jpeg
 **Login Screen**  
-![Login](https://github.com/RamziAhmar/Pemograman4-UMB/images/login_page.jpeg)
+![Login](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/login_page.jpeg)
 
 **Register Screen**  
-![Register](https://github.com/RamziAhmar/Pemograman4-UMB/images/regist_page.jpeg)
+![Register](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/regist_page.jpeg)
 
 **Beranda Setelah Login**  
-![Home](https://github.com/RamziAhmar/Pemograman4-UMB/images/main_page.jpeg)
+![Home](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/main_page.jpeg)
 
 
 ## Hasil Uji Coba
@@ -48,33 +46,33 @@ Aplikasi ini menggunakan **SQLite** sebagai basis data lokal untuk menyimpan inf
 
 **Invalid Email**  
 
-![InvalidEmail](https://github.com/RamziAhmar/Pemograman4-UMB/images/email_tidakvalid.jpeg)
+![InvalidEmail](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/email_tidakvalid.jpeg)
 
 **Empty Form**  
 
-![FormTidakLengkap](https://github.com/RamziAhmar/Pemograman4-UMB/images/form_kosong.jpeg)
+![FormTidakLengkap](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/form_kosong.jpeg)
 
 **Minimum Password**  
 
-![InvalidPassword](https://github.com/RamziAhmar/Pemograman4-UMB/images/password_kurang.jpeg)
+![InvalidPassword](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/password_kurang.jpeg)
 
 **Unmatch Password**  
 
-![InvalidPassword](https://github.com/RamziAhmar/Pemograman4-UMB/images/password_tidaksama.jpeg)
+![InvalidPassword](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/password_tidaksama.jpeg)
 
 **Regist Success**  
 
-![RegistSuccess](https://github.com/RamziAhmar/Pemograman4-UMB/images/regist_success.jpeg)
+![RegistSuccess](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/regist_success.jpeg)
 
 ## Login Screen
 
 **Invalid Username or Passwrod**  
 
-![ErrorLogin](https://github.com/RamziAhmar/Pemograman4-UMB/images/error_login.jpeg)
+![ErrorLogin](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/error_login.jpeg)
 
 **Login Success**  
 
-![SuccessLogin](https://github.com/RamziAhmar/Pemograman4-UMB/images/berhasil_login.jpeg)
+![SuccessLogin](https://github.com/RamziAhmar/Pemograman4-UMB/blob/master/images/berhasil_login.jpeg)
 
 
 ---
